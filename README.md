@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SerroCSC
-- 👀 I’m interested in video games, computers and novels
+- 👀 I’m interested in video games, music, computers and novels
 - 🌱 I’m currently learning rust and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
